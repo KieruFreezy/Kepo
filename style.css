@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#countdown {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#message {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.img-fluid {
+    border: 5px solid #007bff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
